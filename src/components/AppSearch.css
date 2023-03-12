@@ -1,0 +1,15 @@
+.app-search {
+  margin-bottom: 15px;
+}
+.app-search-input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+.app-search-input:focus {
+  outline: 2px solid rgb(0, 89, 255);
+}

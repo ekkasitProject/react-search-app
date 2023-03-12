@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+.app-logo {
+  border-bottom: 1px solid gray;
+  height: 50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  font-size: 35px;
+  padding: 20px;
+  font-family: "Rubik Iso", cursive;
+}
